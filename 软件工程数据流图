@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T08:22:13.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MhUNH3FgyLllJndX53Tk" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T08:35:19.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tzzQuaS97M0a2ghw19lt" version="21.1.8" type="github">
   <diagram name="第 1 页" id="5nLZN0OYUTcn37Si1tzh">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="KCLBVZ7I8Z9g5QzyZKDO-6" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KCLBVZ7I8Z9g5QzyZKDO-7" value="管理" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="374" y="90" width="100" height="40" as="geometry" />
+        <mxCell id="KCLBVZ7I8Z9g5QzyZKDO-7" value="数据存储" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KCLBVZ7I8Z9g5QzyZKDO-10" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -33,6 +33,12 @@
             <mxPoint x="670" y="200" as="sourcePoint" />
             <mxPoint x="830" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KCLBVZ7I8Z9g5QzyZKDO-19" value="消费意愿与评论质量获取" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCLBVZ7I8Z9g5QzyZKDO-32" value="数据校验" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
